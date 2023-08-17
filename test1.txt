@@ -3,6 +3,11 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 nigah2
 updated by nigah
 
+main branch
+
+rezone branch
+
+
 updated by anika
 Edited by enisha
 ba1d6c7846fc8e6ca69dd3b5f18b367bc2aad8ae
@@ -15,5 +20,4 @@ ARKO MAZHAR EDITED THIS FOR CONFLICT
 a8d58c51079813399d3445cf7a35b51382b972c5
 
 updated by nigah ARKO EDITED XYZ
-..
-nigah
+
