@@ -2,9 +2,6 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 
 updated by nigah
 
-
-main branch
-
-rezone branch
+chicken
 
 ..
